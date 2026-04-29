@@ -1,0 +1,5 @@
+Yuri 600.00 450.00
+Maria 500.00 200.00
+Evgenii 0.00 450.00
+Evgenii 150.00 Yuri
+Evgenii 300.00 Maria

@@ -1,0 +1,4 @@
+3 Yuri Maria Evgenii
+Yuri 500.0 / Maria
+Yuri 100.0
+Maria 500.0

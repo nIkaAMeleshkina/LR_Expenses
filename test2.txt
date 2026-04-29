@@ -1,0 +1,8 @@
+4 Yuri Maria Evgenii Mark
+Yuri 300.0
+Yuri 100.0
+Maria 500.0
+Mark 100.0
+Yuri 100.0
+Evgenii 350.0
+

@@ -1,0 +1,7 @@
+Yuri 500.00 362.50
+Maria 500.00 362.50
+Evgenii 350.00 362.50
+Mark 100.00 362.50
+Evgenii 12.50 Yuri
+Mark 125.00 Yuri
+Mark 137.50 Maria
